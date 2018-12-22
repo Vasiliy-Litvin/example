@@ -1,2 +1,2 @@
 # example
-Repository for example
+Repository for example.
